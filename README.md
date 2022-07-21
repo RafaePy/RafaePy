@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RafaePy
-- 👀 I’m interested in Data Science & Blogging
-- 🌱 I’m currently learning Python 
+- 👋 Hi, I’m @Rafae
+- 👀 I’m interested in Web Development & ML.
+- 🌱 I’m currently learning Fronted Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
