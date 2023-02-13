@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafae
 - 👀 I’m interested in Web Development & ML.
-- 🌱 I’m currently learning Fronted Development.
+- 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
